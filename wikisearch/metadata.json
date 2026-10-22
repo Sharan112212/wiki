@@ -1,0 +1,8 @@
+{
+  "name": "WikiSearch",
+  "description": "Android client for local Wikipedia search engine with BM25 ranking, phrase search, article reader, stats, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WikiSearch</string>
+    <string name="search_hint">Search Simple Wikipedia...</string>
+    <string name="mode_keyword">Keyword</string>
+    <string name="mode_phrase">Phrase</string>
+    <string name="search_results">Search Results</string>
+    <string name="no_results">No results found</string>
+    <string name="error_server_unreachable">Server unreachable. Check server URL in Settings.</string>
+    <string name="retry">Retry</string>
+    <string name="cc_license_notice">Text from Wikipedia, licensed CC BY-SA 4.0</string>
+</resources>

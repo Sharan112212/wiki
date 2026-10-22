@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Data (large files, not tracked)
+data/raw/
+data/index/
+data/blocks/
+
+# Benchmark results (regenerated)
+benchmark/results/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node & Web
+node_modules/
+wikisearch/node_modules/
+dist/
+wikisearch/dist/
+
+# Test cache
+.pytest_cache/
+
+# Android builds
+android/WikiSearch/.gradle/
+android/WikiSearch/build/
+android/WikiSearch/app/build/
+wikisearch/.gradle/
+wikisearch/build/
+wikisearch/app/build/
+wikisearch/local.properties
+*.apk
+*.aab
+
+# Misc
+*.log
+.env

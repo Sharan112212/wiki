@@ -1,0 +1,842 @@
+[
+  {
+    "query_id": "q_0001",
+    "query_text": "Rubidium hydroxide",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 58369,
+    "expected_title": "Rubidium hydroxide"
+  },
+  {
+    "query_id": "q_0002",
+    "query_text": "Worcestershire",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 13112,
+    "expected_title": "Worcestershire"
+  },
+  {
+    "query_id": "q_0003",
+    "query_text": "Eduard Krieger",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 144194,
+    "expected_title": "Eduard Krieger"
+  },
+  {
+    "query_id": "q_0004",
+    "query_text": "President of Paraguay",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 128393,
+    "expected_title": "President of Paraguay"
+  },
+  {
+    "query_id": "q_0005",
+    "query_text": "Canadian Pacific Railway",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 117026,
+    "expected_title": "Canadian Pacific Railway"
+  },
+  {
+    "query_id": "q_0006",
+    "query_text": "Amadora",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 73158,
+    "expected_title": "Amadora"
+  },
+  {
+    "query_id": "q_0007",
+    "query_text": "Screaming",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 53736,
+    "expected_title": "Screaming"
+  },
+  {
+    "query_id": "q_0008",
+    "query_text": "Virgin Mobile Festival",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 45580,
+    "expected_title": "Virgin Mobile Festival"
+  },
+  {
+    "query_id": "q_0009",
+    "query_text": "Rhacophorus helenae",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 221208,
+    "expected_title": "Rhacophorus helenae"
+  },
+  {
+    "query_id": "q_0010",
+    "query_text": "Mosleh Zamani",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 16663,
+    "expected_title": "Mosleh Zamani"
+  },
+  {
+    "query_id": "q_0011",
+    "query_text": "Philology",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 49123,
+    "expected_title": "Philology"
+  },
+  {
+    "query_id": "q_0012",
+    "query_text": "Zen\u00f3n D\u00edaz",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 114629,
+    "expected_title": "Zen\u00f3n D\u00edaz"
+  },
+  {
+    "query_id": "q_0013",
+    "query_text": "Ricardo Vidal",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 121981,
+    "expected_title": "Ricardo Vidal"
+  },
+  {
+    "query_id": "q_0014",
+    "query_text": "Nicholas Brendon",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 264951,
+    "expected_title": "Nicholas Brendon"
+  },
+  {
+    "query_id": "q_0015",
+    "query_text": "Helen Clark",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 13912,
+    "expected_title": "Helen Clark"
+  },
+  {
+    "query_id": "q_0016",
+    "query_text": "Eker\u00f6 sommarstad",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 104248,
+    "expected_title": "Eker\u00f6 sommarstad"
+  },
+  {
+    "query_id": "q_0017",
+    "query_text": "Lucila Urgelles",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 219949,
+    "expected_title": "Lucila Urgelles"
+  },
+  {
+    "query_id": "q_0018",
+    "query_text": "Brian",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 115574,
+    "expected_title": "Brian"
+  },
+  {
+    "query_id": "q_0019",
+    "query_text": "Hommes et plantes",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 235514,
+    "expected_title": "Hommes et plantes"
+  },
+  {
+    "query_id": "q_0020",
+    "query_text": "Appetite for Destruction",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 145852,
+    "expected_title": "Appetite for Destruction"
+  },
+  {
+    "query_id": "q_0021",
+    "query_text": "Xbox 360",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 3407,
+    "expected_title": "Xbox 360"
+  },
+  {
+    "query_id": "q_0022",
+    "query_text": "Daniel Geale",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 83707,
+    "expected_title": "Daniel Geale"
+  },
+  {
+    "query_id": "q_0023",
+    "query_text": "Tornaco",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 221571,
+    "expected_title": "Tornaco"
+  },
+  {
+    "query_id": "q_0024",
+    "query_text": "Irschenberg",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 178389,
+    "expected_title": "Irschenberg"
+  },
+  {
+    "query_id": "q_0025",
+    "query_text": "Lantern of the dead",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 81516,
+    "expected_title": "Lantern of the dead"
+  },
+  {
+    "query_id": "q_0026",
+    "query_text": "Erlenbach im Simmental",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 112886,
+    "expected_title": "Erlenbach im Simmental"
+  },
+  {
+    "query_id": "q_0027",
+    "query_text": "Beating heart cadaver",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 53587,
+    "expected_title": "Beating heart cadaver"
+  },
+  {
+    "query_id": "q_0028",
+    "query_text": "Kenji Hada",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 48625,
+    "expected_title": "Kenji Hada"
+  },
+  {
+    "query_id": "q_0029",
+    "query_text": "Andy Goram",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 199191,
+    "expected_title": "Andy Goram"
+  },
+  {
+    "query_id": "q_0030",
+    "query_text": "MyLifeIsAverage",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 50707,
+    "expected_title": "MyLifeIsAverage"
+  },
+  {
+    "query_id": "q_0031",
+    "query_text": "Acrisure Stadium",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 188208,
+    "expected_title": "Acrisure Stadium"
+  },
+  {
+    "query_id": "q_0032",
+    "query_text": "Fanny Hill",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 180331,
+    "expected_title": "Fanny Hill"
+  },
+  {
+    "query_id": "q_0033",
+    "query_text": "Salina, Kansas",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 138685,
+    "expected_title": "Salina, Kansas"
+  },
+  {
+    "query_id": "q_0034",
+    "query_text": "Magen David Adom",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 240870,
+    "expected_title": "Magen David Adom"
+  },
+  {
+    "query_id": "q_0035",
+    "query_text": "Maeve",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 198461,
+    "expected_title": "Maeve"
+  },
+  {
+    "query_id": "q_0036",
+    "query_text": "G\u00e9lannes",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 41313,
+    "expected_title": "G\u00e9lannes"
+  },
+  {
+    "query_id": "q_0037",
+    "query_text": "Black Bart",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 153709,
+    "expected_title": "Black Bart"
+  },
+  {
+    "query_id": "q_0038",
+    "query_text": "\u00c9ric Dupond-Moretti",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 189600,
+    "expected_title": "\u00c9ric Dupond-Moretti"
+  },
+  {
+    "query_id": "q_0039",
+    "query_text": "Lynbrook, New York",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 100814,
+    "expected_title": "Lynbrook, New York"
+  },
+  {
+    "query_id": "q_0040",
+    "query_text": "Cormoranche-sur-Sa\u00f4ne",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 36466,
+    "expected_title": "Cormoranche-sur-Sa\u00f4ne"
+  },
+  {
+    "query_id": "q_0041",
+    "query_text": "Tartu",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 24025,
+    "expected_title": "Tartu"
+  },
+  {
+    "query_id": "q_0042",
+    "query_text": "Granby, Quebec",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 119484,
+    "expected_title": "Granby, Quebec"
+  },
+  {
+    "query_id": "q_0043",
+    "query_text": "Edasserimala",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 151722,
+    "expected_title": "Edasserimala"
+  },
+  {
+    "query_id": "q_0044",
+    "query_text": "Hermival-les-Vaux",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 41833,
+    "expected_title": "Hermival-les-Vaux"
+  },
+  {
+    "query_id": "q_0045",
+    "query_text": "Maidstone West railway station",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 122049,
+    "expected_title": "Maidstone West railway station"
+  },
+  {
+    "query_id": "q_0046",
+    "query_text": "Teignmouth",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 52953,
+    "expected_title": "Teignmouth"
+  },
+  {
+    "query_id": "q_0047",
+    "query_text": "Bad S\u00e4ckingen",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 199295,
+    "expected_title": "Bad S\u00e4ckingen"
+  },
+  {
+    "query_id": "q_0048",
+    "query_text": "Haslau bei Birkfeld",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 145738,
+    "expected_title": "Haslau bei Birkfeld"
+  },
+  {
+    "query_id": "q_0049",
+    "query_text": "Elena Mikhnenko",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 237717,
+    "expected_title": "Elena Mikhnenko"
+  },
+  {
+    "query_id": "q_0050",
+    "query_text": "Mechanicsville, Virginia",
+    "mode": "keyword",
+    "type": "title_known_item",
+    "expected_doc_id": 191277,
+    "expected_title": "Mechanicsville, Virginia"
+  },
+  {
+    "query_id": "q_0051",
+    "query_text": "and los",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 201728,
+    "expected_title": "Saint Laurent (movie)"
+  },
+  {
+    "query_id": "q_0052",
+    "query_text": "eyeglasses aviators were",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 200078,
+    "expected_title": "Aviator sunglasses"
+  },
+  {
+    "query_id": "q_0053",
+    "query_text": "semi arid climate",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 6019,
+    "expected_title": "Valencia"
+  },
+  {
+    "query_id": "q_0054",
+    "query_text": "dead pool",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 178349,
+    "expected_title": "Dirty Harry (movie series)"
+  },
+  {
+    "query_id": "q_0055",
+    "query_text": "same year",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 58485,
+    "expected_title": "Romy Schneider"
+  },
+  {
+    "query_id": "q_0056",
+    "query_text": "with model",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 82920,
+    "expected_title": "Nick Cannon"
+  },
+  {
+    "query_id": "q_0057",
+    "query_text": "international airport",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 138091,
+    "expected_title": "List of airports in Canada"
+  },
+  {
+    "query_id": "q_0058",
+    "query_text": "that address",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 262451,
+    "expected_title": "\u0160uperstacja"
+  },
+  {
+    "query_id": "q_0059",
+    "query_text": "played kaethi",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 93665,
+    "expected_title": "Eva May"
+  },
+  {
+    "query_id": "q_0060",
+    "query_text": "can eur gbr",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 55789,
+    "expected_title": "Force India"
+  },
+  {
+    "query_id": "q_0061",
+    "query_text": "the cuba",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 156471,
+    "expected_title": "Yilian Olivera Yut"
+  },
+  {
+    "query_id": "q_0062",
+    "query_text": "used today",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 80131,
+    "expected_title": "One-time pad"
+  },
+  {
+    "query_id": "q_0063",
+    "query_text": "curves etc variants",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 196038,
+    "expected_title": "Papyrus (typeface)"
+  },
+  {
+    "query_id": "q_0064",
+    "query_text": "paradoxical end",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 299,
+    "expected_title": "Paradox"
+  },
+  {
+    "query_id": "q_0065",
+    "query_text": "states navy",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 125541,
+    "expected_title": "Grumman C-2 Greyhound"
+  },
+  {
+    "query_id": "q_0066",
+    "query_text": "model and",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 254798,
+    "expected_title": "Richie Stringini"
+  },
+  {
+    "query_id": "q_0067",
+    "query_text": "jobs which unveiled",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 65934,
+    "expected_title": "Steven Levy"
+  },
+  {
+    "query_id": "q_0068",
+    "query_text": "temple university where",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 249184,
+    "expected_title": "Quinta Brunson"
+  },
+  {
+    "query_id": "q_0069",
+    "query_text": "has toured and",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 138966,
+    "expected_title": "Paolo Vinaccia"
+  },
+  {
+    "query_id": "q_0070",
+    "query_text": "the national science",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 229690,
+    "expected_title": "El Gordo"
+  },
+  {
+    "query_id": "q_0071",
+    "query_text": "2001 song",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 236708,
+    "expected_title": "I Lay My Love on You"
+  },
+  {
+    "query_id": "q_0072",
+    "query_text": "south line",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 117806,
+    "expected_title": "Kawasaki Heavy Industries & CSR Qingdao Sifang C151A"
+  },
+  {
+    "query_id": "q_0073",
+    "query_text": "brothers living",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 33568,
+    "expected_title": "Joe Jonas"
+  },
+  {
+    "query_id": "q_0074",
+    "query_text": "the landscape",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 177254,
+    "expected_title": "Bergisches Land"
+  },
+  {
+    "query_id": "q_0075",
+    "query_text": "the nelli",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 115457,
+    "expected_title": "Nellore"
+  },
+  {
+    "query_id": "q_0076",
+    "query_text": "legislature however",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 16469,
+    "expected_title": "Legislation"
+  },
+  {
+    "query_id": "q_0077",
+    "query_text": "samaranch spanish athletes",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 69369,
+    "expected_title": "Spain at the Olympics"
+  },
+  {
+    "query_id": "q_0078",
+    "query_text": "including over",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 127400,
+    "expected_title": "Svetlin Rusev"
+  },
+  {
+    "query_id": "q_0079",
+    "query_text": "canaria and tenerife",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 213416,
+    "expected_title": "List of mathematics museums in Spain"
+  },
+  {
+    "query_id": "q_0080",
+    "query_text": "february 1754 cadiz",
+    "mode": "phrase",
+    "type": "exact_phrase",
+    "expected_doc_id": 225994,
+    "expected_title": "Juan Ruiz de Apodaca, 1st Count of Venadito"
+  },
+  {
+    "query_id": "q_0081",
+    "query_text": "computer science",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0082",
+    "query_text": "artificial intelligence",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0083",
+    "query_text": "world war ii",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0084",
+    "query_text": "solar system",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0085",
+    "query_text": "renewable energy",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0086",
+    "query_text": "quantum mechanics",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0087",
+    "query_text": "french revolution",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0088",
+    "query_text": "ancient egypt",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0089",
+    "query_text": "machine learning",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0090",
+    "query_text": "climate change",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0091",
+    "query_text": "dna replication",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0092",
+    "query_text": "black hole",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0093",
+    "query_text": "industrial revolution",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0094",
+    "query_text": "operating system",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0095",
+    "query_text": "plate tectonics",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0096",
+    "query_text": "roman empire",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0097",
+    "query_text": "periodic table",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0098",
+    "query_text": "photosynthesis",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0099",
+    "query_text": "internet protocol",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0100",
+    "query_text": "general relativity",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0101",
+    "query_text": "united nations",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0102",
+    "query_text": "evolutionary biology",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0103",
+    "query_text": "gravitational wave",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0104",
+    "query_text": "cellular respiration",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  },
+  {
+    "query_id": "q_0105",
+    "query_text": "renaissance art",
+    "mode": "keyword",
+    "type": "topic_query",
+    "expected_doc_id": null,
+    "expected_title": null
+  }
+]

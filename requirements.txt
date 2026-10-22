@@ -1,0 +1,17 @@
+# Core dependencies (compatible with Python 3.11 - 3.14)
+pyarrow>=18.0.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+pydantic>=2.9.0
+
+# Dataset download & processing
+huggingface-hub>=0.26.0
+datasets>=3.0.0
+
+# Compression & storage
+zstandard>=0.23.0
+
+# Benchmark & testing
+requests>=2.32.0
+numpy>=1.26.0
+pytest>=8.3.0
